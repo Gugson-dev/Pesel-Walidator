@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeselWalidator", "PeselWalidator.csproj", "{225813BC-84C6-402B-8B94-1D8B542D97FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PESELWalidatorTests", "..\PESELWalidatorTests\PESELWalidatorTests.csproj", "{3B77DA7F-FEBB-4DAF-833B-D07866C83008}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{225813BC-84C6-402B-8B94-1D8B542D97FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{225813BC-84C6-402B-8B94-1D8B542D97FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{225813BC-84C6-402B-8B94-1D8B542D97FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{225813BC-84C6-402B-8B94-1D8B542D97FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B77DA7F-FEBB-4DAF-833B-D07866C83008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B77DA7F-FEBB-4DAF-833B-D07866C83008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B77DA7F-FEBB-4DAF-833B-D07866C83008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B77DA7F-FEBB-4DAF-833B-D07866C83008}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53A471BF-0C62-4B51-BE29-B6C7B0C70F7F}
+	EndGlobalSection
+EndGlobal

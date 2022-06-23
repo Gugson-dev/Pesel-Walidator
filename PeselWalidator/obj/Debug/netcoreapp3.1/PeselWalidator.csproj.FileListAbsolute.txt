@@ -1,0 +1,13 @@
+C:\Users\Gugson\source\repos\PeselWalidator\obj\Debug\netcoreapp3.1\PeselWalidator.csprojAssemblyReference.cache
+C:\Users\Gugson\source\repos\PeselWalidator\obj\Debug\netcoreapp3.1\PeselWalidator.AssemblyInfoInputs.cache
+C:\Users\Gugson\source\repos\PeselWalidator\obj\Debug\netcoreapp3.1\PeselWalidator.AssemblyInfo.cs
+C:\Users\Gugson\source\repos\PeselWalidator\obj\Debug\netcoreapp3.1\PeselWalidator.csproj.CoreCompileInputs.cache
+C:\Users\Gugson\source\repos\PeselWalidator\bin\Debug\netcoreapp3.1\PeselWalidator.exe
+C:\Users\Gugson\source\repos\PeselWalidator\bin\Debug\netcoreapp3.1\PeselWalidator.deps.json
+C:\Users\Gugson\source\repos\PeselWalidator\bin\Debug\netcoreapp3.1\PeselWalidator.runtimeconfig.json
+C:\Users\Gugson\source\repos\PeselWalidator\bin\Debug\netcoreapp3.1\PeselWalidator.runtimeconfig.dev.json
+C:\Users\Gugson\source\repos\PeselWalidator\bin\Debug\netcoreapp3.1\PeselWalidator.dll
+C:\Users\Gugson\source\repos\PeselWalidator\bin\Debug\netcoreapp3.1\PeselWalidator.pdb
+C:\Users\Gugson\source\repos\PeselWalidator\obj\Debug\netcoreapp3.1\PeselWalidator.dll
+C:\Users\Gugson\source\repos\PeselWalidator\obj\Debug\netcoreapp3.1\PeselWalidator.pdb
+C:\Users\Gugson\source\repos\PeselWalidator\obj\Debug\netcoreapp3.1\PeselWalidator.genruntimeconfig.cache
